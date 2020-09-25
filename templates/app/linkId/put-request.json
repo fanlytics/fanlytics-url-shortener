@@ -1,5 +1,5 @@
 {
-  "TableName": "Shortie",
+  "TableName": "sam-app-LinkTable-EWDQBZQFWC1A",
   "Key": {
     "id": {
       "S": $input.json('$.id') + "_" + $context.authorizer.claims.email

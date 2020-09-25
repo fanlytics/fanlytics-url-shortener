@@ -4,5 +4,5 @@
       "S": "$input.params().path.linkId"
     }
   },
-  "TableName": "SlipLink-LinkTable-A2SD9C321JCE"
+  "TableName": "sam-app-LinkTable-EWDQBZQFWC1A"
 }
