@@ -4,7 +4,7 @@
       "S": "$input.params().path.linkId"
     }
   },
-  "TableName": "sam-app-LinkTable-EWDQBZQFWC1A",
+  "TableName": "Fanlytics-URLShortener-LinkTable-1FWXLJ6WYAG1M",
   "ConditionExpression": "#owner = :owner",
   "ExpressionAttributeValues": {
     ":owner": {

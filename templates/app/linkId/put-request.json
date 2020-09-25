@@ -1,5 +1,5 @@
 {
-  "TableName": "sam-app-LinkTable-EWDQBZQFWC1A",
+  "TableName": "Fanlytics-URLShortener-LinkTable-1FWXLJ6WYAG1M",
   "Key": {
     "id": {
       "S": $input.json('$.id') + "_" + $context.authorizer.claims.email
