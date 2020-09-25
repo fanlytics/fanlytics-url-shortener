@@ -16,7 +16,7 @@
       "S": $input.json('$.url')
     },
     ":o": {
-      "S": "$context.authorizer.claims.email"
+      "S": "paul@fanlytics.com"
     },
     ":ts": {
       "S": "$context.requestTime"
